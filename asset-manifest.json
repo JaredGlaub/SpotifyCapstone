@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/SpotifyCapstone/static/js/main.a71c3f06.js",
-    "index.html": "/SpotifyCapstone/index.html",
-    "main.a71c3f06.js.map": "/SpotifyCapstone/static/js/main.a71c3f06.js.map"
+    "main.js": "/userinterface/static/js/main.a71c3f06.js",
+    "index.html": "/userinterface/index.html",
+    "main.a71c3f06.js.map": "/userinterface/static/js/main.a71c3f06.js.map"
   },
   "entrypoints": [
     "static/js/main.a71c3f06.js"
